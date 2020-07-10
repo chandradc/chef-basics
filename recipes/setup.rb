@@ -19,3 +19,5 @@ file '/etc/motd' do
 end
 
 package 'git'
+
+package 'nano'
